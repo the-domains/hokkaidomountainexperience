@@ -1,0 +1,28 @@
+name: HokkaidoMountainExperience
+favicon: null
+layout_spectrum: 0.8452250196132809
+typography_spectrum: 0.33336318121291697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6910679673310369
+  lightness: 0.8187375336419791
+  saturation: 0.8124293726868927
+  rhythmicContrast: 0.2246637020725757
+purpose: []
